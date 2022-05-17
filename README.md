@@ -1,6 +1,3 @@
-h1 {
-  color:  green;
-}
 
 <h1 align="center">Data Science Project</h1>
 
