@@ -1,6 +1,6 @@
-<h1>Data Science Project<h1>
+<h1>Data Science Project</h1>
 
-It is my repositories for all the data science project. I have record everything from “100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy to other personal project that I do. 
+<p> It is my repositories for all the data science project. I have record everything from “100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy to other personal project that I do. </p>
 
 1.	"100 Days of Code - The Complete Python Pro Bootcamp for 2021" course: Day 098 – Portfolio Project - Analysed and Visualise the Space Race
 
