@@ -9,4 +9,6 @@
 
 3.	"100 Days of Code - The Complete Python Pro Bootcamp for 2021" course: Day 100 - Portfolio Project - Predicting Earnings using Multivariable Regression
 
-4.  Portfolio Project - Nobel Prize Onyx May Challenge 
+4.  Portfolio Project - Nobel Prize Onyx May Challenge
+
+5.  Portfolio Project - Forbes Onyx June Challenge 
